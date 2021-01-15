@@ -1,0 +1,5 @@
+numpy==1.19.5
+opencv-python==4.5.1.48
+pygame==2.0.1
+pyobjc==7.1
+PyTouchBar==0.2.0
